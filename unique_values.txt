@@ -1,0 +1,259 @@
+Seen a Star Wars film
+Yes
+No
+
+Fan of Star Wars
+Yes
+Maybe
+No
+
+Seen The Phantom Menace
+Yes
+No
+
+Seen Attack of the Clones
+Yes
+No
+
+Seen Revenge of the Sith
+Yes
+No
+
+Seen A New Hope
+Yes
+No
+
+Seen The Empire Strikes Back
+Yes
+No
+
+Seen Return of the Jedi
+Yes
+No
+
+Rank for The Phantom Menace
+3.0
+0.0
+1.0
+5.0
+6.0
+4.0
+2.0
+
+Rank for Attack of the Clones
+2.0
+0.0
+6.0
+4.0
+5.0
+1.0
+3.0
+
+Rank for Revenge of the Sith
+1.0
+0.0
+3.0
+6.0
+4.0
+5.0
+2.0
+
+Rank for A New Hope
+4.0
+0.0
+2.0
+6.0
+3.0
+1.0
+5.0
+
+Rank for The Empire Strikes Back
+5.0
+0.0
+4.0
+1.0
+2.0
+3.0
+6.0
+
+Rank for Return of the Jedi
+6.0
+0.0
+3.0
+2.0
+1.0
+4.0
+5.0
+
+View of Han Solo
+Very favorably
+Unfamiliar (N/A)
+Somewhat favorably
+Neither favorably nor unfavorably (neutral)
+Somewhat unfavorably
+Very unfavorably
+
+View of Luke Skywalker
+Very favorably
+Unfamiliar (N/A)
+Somewhat favorably
+Somewhat unfavorably
+Neither favorably nor unfavorably (neutral)
+Very unfavorably
+
+View of Princess Leia Organa
+Very favorably
+Unfamiliar (N/A)
+Somewhat favorably
+Somewhat unfavorably
+Neither favorably nor unfavorably (neutral)
+Very unfavorably
+
+View of Anakin Skywalker
+Very favorably
+Unfamiliar (N/A)
+Somewhat favorably
+Somewhat unfavorably
+Neither favorably nor unfavorably (neutral)
+Very unfavorably
+
+View of Obi Wan Kenobi
+Very favorably
+Unfamiliar (N/A)
+Somewhat favorably
+Very unfavorably
+Neither favorably nor unfavorably (neutral)
+Somewhat unfavorably
+
+View of Emperor Palpatine
+Very favorably
+Unfamiliar (N/A)
+Somewhat favorably
+Very unfavorably
+Neither favorably nor unfavorably (neutral)
+Somewhat unfavorably
+
+View of Darth Vader
+Very favorably
+Unfamiliar (N/A)
+Somewhat favorably
+Somewhat unfavorably
+Very unfavorably
+Neither favorably nor unfavorably (neutral)
+
+View of Lando Calrissian
+Unfamiliar (N/A)
+Somewhat favorably
+Neither favorably nor unfavorably (neutral)
+Very favorably
+Somewhat unfavorably
+Very unfavorably
+
+View of Boba Fett
+Unfamiliar (N/A)
+Somewhat unfavorably
+Very favorably
+Somewhat favorably
+Neither favorably nor unfavorably (neutral)
+Very unfavorably
+
+View of C-3P0
+Very favorably
+Unfamiliar (N/A)
+Somewhat favorably
+Neither favorably nor unfavorably (neutral)
+Somewhat unfavorably
+Very unfavorably
+
+View of R2 D2
+Very favorably
+Unfamiliar (N/A)
+Somewhat favorably
+Neither favorably nor unfavorably (neutral)
+Somewhat unfavorably
+Very unfavorably
+
+View of Jar Jar Binks
+Very favorably
+Unfamiliar (N/A)
+Very unfavorably
+Somewhat favorably
+Somewhat unfavorably
+Neither favorably nor unfavorably (neutral)
+
+View of Padme Amidala
+Very favorably
+Unfamiliar (N/A)
+Somewhat favorably
+Neither favorably nor unfavorably (neutral)
+Somewhat unfavorably
+Very unfavorably
+
+View of Yoda
+Very favorably
+Unfamiliar (N/A)
+Somewhat favorably
+Very unfavorably
+Neither favorably nor unfavorably (neutral)
+Somewhat unfavorably
+
+Which character shot first?
+I don't understand this question
+Greedo
+Han
+
+Familiar with the Expanded Universe?
+Yes
+?
+No
+
+Fan of the Expanded Universe?
+No
+?
+Yes
+
+Star Trek Fan
+No
+Yes
+Maybe
+
+Gender
+Male
+?
+Female
+
+Age
+18-29
+?
+30-44
+> 60
+45-60
+
+Household Income
+?
+$0 - $24,999
+$100,000 - $149,999
+$25,000 - $49,999
+$50,000 - $99,999
+$150,000+
+
+Education
+High school degree
+Bachelor degree
+Some college or Associate degree
+?
+Graduate degree
+Less than high school degree
+
+Location (Census Region)
+South Atlantic
+West South Central
+West North Central
+Middle Atlantic
+East North Central
+Pacific
+?
+Mountain
+New England
+East South Central
+
