@@ -4,36 +4,36 @@ No
 
 Fan of Star Wars
 Yes
-nan
+Maybe
 No
 
 Seen The Phantom Menace
-Star Wars: Episode I  The Phantom Menace
-nan
+Yes
+No
 
 Seen Attack of the Clones
-Star Wars: Episode II  Attack of the Clones
-nan
+Yes
+No
 
 Seen Revenge of the Sith
-Star Wars: Episode III  Revenge of the Sith
-nan
+Yes
+No
 
 Seen A New Hope
-Star Wars: Episode IV  A New Hope
-nan
+Yes
+No
 
 Seen The Empire Strikes Back
-Star Wars: Episode V The Empire Strikes Back
-nan
+Yes
+No
 
 Seen Return of the Jedi
-Star Wars: Episode VI Return of the Jedi
-nan
+Yes
+No
 
 Rank for The Phantom Menace
 3.0
-nan
+0.0
 1.0
 5.0
 6.0
@@ -42,7 +42,7 @@ nan
 
 Rank for Attack of the Clones
 2.0
-nan
+0.0
 6.0
 4.0
 5.0
@@ -51,7 +51,7 @@ nan
 
 Rank for Revenge of the Sith
 1.0
-nan
+0.0
 3.0
 6.0
 4.0
@@ -60,7 +60,7 @@ nan
 
 Rank for A New Hope
 4.0
-nan
+0.0
 2.0
 6.0
 3.0
@@ -69,7 +69,7 @@ nan
 
 Rank for The Empire Strikes Back
 5.0
-nan
+0.0
 4.0
 1.0
 2.0
@@ -78,7 +78,7 @@ nan
 
 Rank for Return of the Jedi
 6.0
-nan
+0.0
 3.0
 2.0
 1.0
@@ -87,52 +87,46 @@ nan
 
 View of Han Solo
 Very favorably
-nan
+Unfamiliar (N/A)
 Somewhat favorably
 Neither favorably nor unfavorably (neutral)
 Somewhat unfavorably
-Unfamiliar (N/A)
 Very unfavorably
 
 View of Luke Skywalker
 Very favorably
-nan
+Unfamiliar (N/A)
 Somewhat favorably
 Somewhat unfavorably
 Neither favorably nor unfavorably (neutral)
 Very unfavorably
-Unfamiliar (N/A)
 
 View of Princess Leia Organa
 Very favorably
-nan
+Unfamiliar (N/A)
 Somewhat favorably
 Somewhat unfavorably
 Neither favorably nor unfavorably (neutral)
 Very unfavorably
-Unfamiliar (N/A)
 
 View of Anakin Skywalker
 Very favorably
-nan
+Unfamiliar (N/A)
 Somewhat favorably
 Somewhat unfavorably
 Neither favorably nor unfavorably (neutral)
 Very unfavorably
-Unfamiliar (N/A)
 
 View of Obi Wan Kenobi
 Very favorably
-nan
+Unfamiliar (N/A)
 Somewhat favorably
 Very unfavorably
 Neither favorably nor unfavorably (neutral)
 Somewhat unfavorably
-Unfamiliar (N/A)
 
 View of Emperor Palpatine
 Very favorably
-nan
 Unfamiliar (N/A)
 Somewhat favorably
 Very unfavorably
@@ -141,7 +135,6 @@ Somewhat unfavorably
 
 View of Darth Vader
 Very favorably
-nan
 Unfamiliar (N/A)
 Somewhat favorably
 Somewhat unfavorably
@@ -150,7 +143,6 @@ Neither favorably nor unfavorably (neutral)
 
 View of Lando Calrissian
 Unfamiliar (N/A)
-nan
 Somewhat favorably
 Neither favorably nor unfavorably (neutral)
 Very favorably
@@ -159,7 +151,6 @@ Very unfavorably
 
 View of Boba Fett
 Unfamiliar (N/A)
-nan
 Somewhat unfavorably
 Very favorably
 Somewhat favorably
@@ -168,7 +159,6 @@ Very unfavorably
 
 View of C-3P0
 Very favorably
-nan
 Unfamiliar (N/A)
 Somewhat favorably
 Neither favorably nor unfavorably (neutral)
@@ -177,7 +167,6 @@ Very unfavorably
 
 View of R2 D2
 Very favorably
-nan
 Unfamiliar (N/A)
 Somewhat favorably
 Neither favorably nor unfavorably (neutral)
@@ -186,7 +175,6 @@ Very unfavorably
 
 View of Jar Jar Binks
 Very favorably
-nan
 Unfamiliar (N/A)
 Very unfavorably
 Somewhat favorably
@@ -195,7 +183,6 @@ Neither favorably nor unfavorably (neutral)
 
 View of Padme Amidala
 Very favorably
-nan
 Unfamiliar (N/A)
 Somewhat favorably
 Neither favorably nor unfavorably (neutral)
@@ -204,7 +191,6 @@ Very unfavorably
 
 View of Yoda
 Very favorably
-nan
 Unfamiliar (N/A)
 Somewhat favorably
 Very unfavorably
@@ -213,39 +199,38 @@ Somewhat unfavorably
 
 Which character shot first?
 I don't understand this question
-nan
 Greedo
 Han
 
 Familiar with the Expanded Universe?
 Yes
-nan
+?
 No
 
 Fan of the Expanded Universe?
 No
-nan
+?
 Yes
 
 Star Trek Fan
 No
 Yes
-nan
+Maybe
 
 Gender
 Male
-nan
+?
 Female
 
 Age
 18-29
-nan
+?
 30-44
 > 60
 45-60
 
 Household Income
-nan
+?
 $0 - $24,999
 $100,000 - $149,999
 $25,000 - $49,999
@@ -256,7 +241,7 @@ Education
 High school degree
 Bachelor degree
 Some college or Associate degree
-nan
+?
 Graduate degree
 Less than high school degree
 
@@ -267,7 +252,7 @@ West North Central
 Middle Atlantic
 East North Central
 Pacific
-nan
+?
 Mountain
 New England
 East South Central
