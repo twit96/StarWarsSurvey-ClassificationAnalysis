@@ -4,3 +4,5 @@
 * More information about the dataset can be found [here.](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey) 
 
 * Our aim is to train a classifier to predict a person's answers to some questions about the franchise given their answers to other such questions, or to try to predict a person's personal characteristics based off of their answers to questions about the franchise.
+
+* The notebooks are numbered based off of the order they should be viewed in.
