@@ -27,4 +27,7 @@ The project is divided into the six Jupyter Notebooks below:
 
 ## Miscellaneous Files 
 * [Column Names](./column_names.txt) - Text file manually created and used in the Data Preparation notebook to replace the two header rows of the dataset with a simpler, single header row. 
-* [unique_values.txt](./unique_values.txt) - Text file generated in the Data Preparation notebook in order to manually check for inconsistent values in the dataset.
+* [Unique Values](./unique_values.txt) - Text file generated in the Data Preparation notebook in order to manually check for inconsistent values in the dataset. 
+
+## Contributors 
+[Nico Arrieche](https://github.com/nicoarrieche/) • [Chance Mason](https://github.com/cmason1998) • [Mitchel Walker](https://www.linkedin.com/in/walker-mitchel/) • [Tyler Wittig](https://www.linkedin.com/in/tylerwittig/) 
