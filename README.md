@@ -18,12 +18,12 @@ Our aim is to train a classifier to predict a person's answers to some questions
 ## Project Notebooks 
 The project is divided into the six Jupyter Notebooks below: 
 
-1. [Data Preparation](./1. Data Preparation.ipynb)
-2. [Data Exploration and Feature Engineering](./2. Data Exploration and Feature Engineering.ipynb)
-3. [Decision Tree Classifier](./3. Decision Tree.ipynb)
-4. [K-Nearest Neighbors Classifier](./4. KNN Analysis.ipynb)
-5. [Naive Bayes Classifier](./5. Naive Bayes Data Analysis.ipynb)
-6. [Neural Networks Classifier](./6. NeuralNetwork.ipynb) 
+1. [Data Preparation](./data_prep.ipynb)
+2. [Data Exploration and Feature Engineering](./data_expl_feature_eng.ipynb)
+3. [Decision Tree Classifier](./decision_trees.ipynb)
+4. [K-Nearest Neighbors Classifier](./knn.ipynb)
+5. [Naive Bayes Classifier](./naive_bayes.ipynb)
+6. [Neural Networks Classifier](./neural_network.ipynb) 
 
 ## Miscellaneous Files 
 * [Column Names](./column_names.txt) - Text file manually created and used in the Data Preparation notebook to replace the two header rows of the dataset with a simpler, single header row. 
