@@ -1,5 +1,16 @@
 <h1 align="center"> Star Wars Survey Classification Analysis </h1> <br> 
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+- [Dataset Description](#dataset-description)
+- [Project Description](#project-description)
+- [Project Notebooks](#project-notebooks)
+- [Miscellaneous Files](#miscellaneous-files)
+- [Contributors](#contributors)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Dataset Description 
 The Star Wars Survey dataset is a labeled dataset with 1188 records. It has 15 features, which are survey questions regarding people's opinions on the Star Wars franchise and some personal information such as: 
 
