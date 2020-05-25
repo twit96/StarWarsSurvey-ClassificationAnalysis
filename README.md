@@ -7,8 +7,8 @@
 - [Project Description](#project-description)
 - [Project Notebooks](#project-notebooks)
 - [Miscellaneous Files](#miscellaneous-files)
+- [Repository Information](#repository-information)
 - [Contributors](#contributors)
-- [Other Information](#other-information)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -41,9 +41,9 @@ The project is divided into the six Jupyter Notebooks below:
 * [Column Names](./project_files/column_names.txt) - Text file manually created and used in the Data Preparation notebook to replace the two header rows of the dataset with a simpler, single header row. 
 * [Unique Values](./project_files/unique_values.txt) - Text file generated in the Data Preparation notebook in order to manually check for inconsistent values in the dataset. 
 
-## Contributors 
-[Nico Arrieche](https://github.com/nicoarrieche/) • [Chance Mason](https://github.com/cmason1998) • [Mitchel Walker](https://www.linkedin.com/in/walker-mitchel/) • [Tyler Wittig](https://www.linkedin.com/in/tylerwittig/) 
-
 ## Repository Information 
 * All HTML files in root folder are for web hosting the project, and were not utilized in the project itself. 
 * The 'project_files' folder includes all files necessary for running the notebooks, which includes the dataset files and the Column Names text file, and all outputs of the notebooks, which includes the cleaned dataset files and the Unique Values text file. 
+
+## Contributors 
+[Nico Arrieche](https://github.com/nicoarrieche/) • [Chance Mason](https://github.com/cmason1998) • [Mitchel Walker](https://www.linkedin.com/in/walker-mitchel/) • [Tyler Wittig](https://www.linkedin.com/in/tylerwittig/) 
