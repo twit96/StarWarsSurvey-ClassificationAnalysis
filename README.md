@@ -29,16 +29,16 @@ Our aim is to train a classifier to predict a person's answers to some questions
 ## Project Notebooks 
 The project is divided into the six Jupyter Notebooks below: 
 
-1. [Data Preparation](./data_prep.ipynb)
-2. [Data Exploration and Feature Engineering](./data_expl_feature_eng.ipynb)
-3. [Decision Tree Classifier](./decision_trees.ipynb)
-4. [K-Nearest Neighbors Classifier](./knn.ipynb)
-5. [Naive Bayes Classifier](./naive_bayes.ipynb)
-6. [Neural Networks Classifier](./neural_network.ipynb) 
+1. [Data Preparation](./project_files/data_prep.ipynb)
+2. [Data Exploration and Feature Engineering](./project_files/data_expl_feature_eng.ipynb)
+3. [Decision Tree Classifier](./project_files/decision_trees.ipynb)
+4. [K-Nearest Neighbors Classifier](./project_files/knn.ipynb)
+5. [Naive Bayes Classifier](./project_files/naive_bayes.ipynb)
+6. [Neural Networks Classifier](./project_files/neural_network.ipynb) 
 
 ## Miscellaneous Files 
-* [Column Names](./column_names.txt) - Text file manually created and used in the Data Preparation notebook to replace the two header rows of the dataset with a simpler, single header row. 
-* [Unique Values](./unique_values.txt) - Text file generated in the Data Preparation notebook in order to manually check for inconsistent values in the dataset. 
+* [Column Names](./project_files/column_names.txt) - Text file manually created and used in the Data Preparation notebook to replace the two header rows of the dataset with a simpler, single header row. 
+* [Unique Values](./project_files/unique_values.txt) - Text file generated in the Data Preparation notebook in order to manually check for inconsistent values in the dataset. 
 
 ## Contributors 
 [Nico Arrieche](https://github.com/nicoarrieche/) • [Chance Mason](https://github.com/cmason1998) • [Mitchel Walker](https://www.linkedin.com/in/walker-mitchel/) • [Tyler Wittig](https://www.linkedin.com/in/tylerwittig/) 
