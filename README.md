@@ -3,14 +3,17 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
-- [Dataset Description](#dataset-description)
 - [Project Description](#project-description)
+- [Dataset Description](#dataset-description)
 - [Project Notebooks](#project-notebooks)
 - [Miscellaneous Files](#miscellaneous-files)
 - [Repository Information](#repository-information)
 - [Contributors](#contributors)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Project Description 
+Given a Star Wars Survey dataset, our aim is to train a classifier to predict a person's answers to some questions about the franchise given their answers to other such questions, or to try to predict a person's personal characteristics based off of their answers to questions about the franchise. 
 
 ## Dataset Description 
 The Star Wars Survey dataset is a labeled dataset with 1188 records. It has 15 features, which are survey questions regarding people's opinions on the Star Wars franchise and some personal information such as: 
@@ -23,9 +26,6 @@ The Star Wars Survey dataset is a labeled dataset with 1188 records. It has 15 f
 * et cetera. 
 
 More information about the dataset can be found [here.](https://github.com/fivethirtyeight/data/tree/master/star-wars-survey) 
-
-## Project Description 
-Our aim is to train a classifier to predict a person's answers to some questions about the franchise given their answers to other such questions, or to try to predict a person's personal characteristics based off of their answers to questions about the franchise. 
 
 ## Project Notebooks 
 The project is divided into the six Jupyter Notebooks below: 
