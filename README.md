@@ -13,7 +13,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Project Description
-Given a Star Wars Survey dataset, our aim is to train a classifier to predict a person's answers to some questions about the franchise given their answers to other such questions, or to try to predict a person's personal characteristics based off of their answers to questions about the franchise.
+Given a Star Wars Survey dataset, our aim is to train a classifier that can predict a person's response - either to a question about the Star Wars franchise or to a question about their personal characteristics - based off of their responses to the rest of the survey questions.
 
 ## Dataset Description
 The Star Wars Survey dataset is a labeled dataset with 1188 records. It has 15 features, which are survey questions regarding people's opinions on the Star Wars franchise and some personal information such as:
