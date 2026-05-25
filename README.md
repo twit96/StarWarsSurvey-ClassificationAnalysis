@@ -1,5 +1,7 @@
 <h1 align="center"> Star Wars Survey Classification Analysis </h1> <br>
 
+Final project for a UT Austin Data Analytics course taken in Spring 2020. This repository is archived and no longer maintained.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
